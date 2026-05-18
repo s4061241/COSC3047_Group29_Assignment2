@@ -1,1 +1,2 @@
-./data/reddit_gaming_madoc.parquet
+data/
+.ipynb_checkpoints/
