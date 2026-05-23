@@ -2,7 +2,8 @@
 
 ## Group Members
 Phua Sin Yin (s4061241)
-
+Riordan Cormick-Cox (s4174062)
+Dani Adonai (s4090448)
 
 
 ## Data Access
