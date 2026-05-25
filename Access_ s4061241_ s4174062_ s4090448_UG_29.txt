@@ -1,0 +1,5 @@
+The github code can be found at: https://github.com/s4061241/COSC3047_Group29_Assignment2
+- This includes the notebook files required for analysis
+
+The google drive folder can be found at: https://drive.google.com/drive/folders/1GU9lgwNlr-ucUznmlC58WxrkEfJB8ACq?usp=sharing 
+- This includes files in the data/ folder in case they are too big for submission 

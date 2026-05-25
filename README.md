@@ -11,3 +11,13 @@ The MADOC dataset is not included in this repository due to size.
 Download Reddit dataset `reddit_gaming_madoc.parquet` manually from: https://zenodo.org/records/15690964
 
 Place the downloaded .parquet files in a `data/` folder in this directory.
+
+## Notebook Flow
+1. "Community_Detection.ipynb"
+   - Contains initial data preprocessing adn filter to 2020 dataset
+   - Community Detection
+2. "reddit_nlp.ipynb"
+    - Sentiment Analysis
+    - Topic Analysis
+3. ""
+   - Centrality Measure
